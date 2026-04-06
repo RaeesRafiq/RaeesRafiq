@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full Stack Developer | AI Enthusiast  <br>🎓 Final Year B.Tech CSE @ Central University of Kashmir  <br>  ⚡   Building scalable web apps with modern tech  <br>🧠 Exploring AI, automation & real-world problem solving  <br>🌱 Currently leveling up in React, Node.js & system design 
+👨‍💻 Full Stack Developer | AI Enthusiast  <br>🎓 B.Tech CSE Graduate  <br>  ⚡   Building scalable web apps with modern tech  <br>🧠 Exploring AI, automation & real-world problem solving  <br>🌱 Currently leveling up in React, Node.js & system design 
 
 
 ## 🌐 Socials:
